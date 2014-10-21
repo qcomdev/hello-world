@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just a repository
+Editing the readme file
